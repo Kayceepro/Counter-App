@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body {
+    font-size: 4rem;
+    text-align: center;
+}
+
+span {
+    display: block;
+    font-size: 9rem;
+    margin: 100px
+}
+
+button {
+    padding: .9rem;
+    color: red;
+    
+}
+
+main {
+    margin-top: 29rem;
+}
